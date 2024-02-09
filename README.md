@@ -9,7 +9,7 @@
 
   
 ## Skills
----------------
+
 ### My Stacks:
 
 #### Languages: C++ | Python | Javascript | Java
