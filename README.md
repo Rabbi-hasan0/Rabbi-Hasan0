@@ -19,7 +19,7 @@
 ## My Handles
  [<img src="https://img.shields.io/badge/Rabbi-hasan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabbi-hasan-712231244)
  [<img src="https://img.shields.io/badge/Git-Analysis-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Rabbi-hasan0) 
- [<img src="https://img.shields.io/badge/Codeforces Rabbi-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Rabbi_hasan162) 
+ [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Rabbi_hasan162) 
 
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
