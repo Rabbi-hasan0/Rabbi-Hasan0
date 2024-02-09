@@ -6,9 +6,9 @@
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rabbi-Hasan0&show_icons=true&count_private=true&theme=dark" alt="Rabbi-Hasan0" />
-
-### My Stacks:
 ---------------
+### My Stacks:
+
 #### Languages: C++ | Python | Javascript | Java
 
 #### Frontend: HTML | CSS | React | NextJS | Tailwind
@@ -16,7 +16,7 @@
 #### Backend: Python | FastAPI | PostgreSQL | Django
 
 #### Others: Git | Docker | google_cloud | Linux 
-
+---------------
 ## My Handles
  [<img src="https://img.shields.io/badge/Rabbi-hasan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabbi-hasan-712231244)
  [<img src="https://img.shields.io/badge/Git-Analysis-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Rabbi-hasan0) 
