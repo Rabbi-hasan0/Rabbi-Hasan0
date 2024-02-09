@@ -6,9 +6,9 @@
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rabbi-Hasan0&show_icons=true&count_private=true&theme=dark" alt="Rabbi-Hasan0" />
----------------
-### My Stacks:
 
+### My Stacks:
+---------------
 #### Languages: C++ | Python | Javascript | Java
 
 #### Frontend: HTML | CSS | React | NextJS | Tailwind
