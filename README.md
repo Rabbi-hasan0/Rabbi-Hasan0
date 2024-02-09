@@ -10,7 +10,8 @@
   
 ## My Skills
 
-### Languages: #### C++ | Python | Javascript | Java
+### Languages:
+C++ | Python | Javascript | Java
 
 ### Frontend: HTML | CSS | React | NextJS | Tailwind
 
