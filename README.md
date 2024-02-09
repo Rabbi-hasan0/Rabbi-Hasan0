@@ -10,14 +10,13 @@
   
 ## My Skills
 
-### Languages:
-C++ | Python | Javascript | Java
+#### Languages: C++ | Python | Javascript | Java
 
-### Frontend: HTML | CSS | React | NextJS | Tailwind
+#### Frontend: HTML | CSS | React | NextJS | Tailwind
 
-### Backend: Python | FastAPI | PostgreSQL | Django
+#### Backend: Python | FastAPI | PostgreSQL | Django
 
-### Others: Git | Docker | google_cloud | Linux 
+#### Others: Git | Docker | google_cloud | Linux 
 ---------------
 ## My Handles
  [<img src="https://img.shields.io/badge/Rabbi-hasan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabbi-hasan-712231244)
