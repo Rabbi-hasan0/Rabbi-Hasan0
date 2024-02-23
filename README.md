@@ -1,4 +1,4 @@
- <p align = "center"> [<img src="https://media.licdn.com/dms/image/C4D0DAQFo3ekcFV9mUg/learning-public-crop_288_512/0/1588785168703?e=2147483647&v=beta&t=qypdh1XKRCSzIpbdaiuK1NrCcaBfue-B1_qjZefcs84">]
+ <p align = "center"> [<img src="https://media.licdn.com/dms/image/D4D12AQErZrpoNKoGUQ/article-cover_image-shrink_600_2000/0/1679892152071?e=2147483647&v=beta&t=6ixogPHwVz55zl4oVUHZV4DUfKe-MqMhcKvnaAF7Dr0"/>]
   
 ### About Me
 - [Codeforces/Rabbi-Hasan](https://codeforces.com/profile/Rabbi_hasan162)
