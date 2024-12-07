@@ -1,9 +1,9 @@
 
   
 ### About Me
-- [Codeforces/Rabbi-Hasan](https://codeforces.com/profile/Rabbi_hasan162)
-- [Linkedin/Rabbi-Hasan](https://www.linkedin.com/in/rabbi-hasan-712231244/)
-- [Facebook/Rabbi-Hasan](https://www.facebook.com/profile.php?id=100080589047918)
+- [Codeforces](https://codeforces.com/profile/Rabbi_hasan162)
+- [Linkedin](https://www.linkedin.com/in/rabbi-hasan-712231244/)
+- [Facebook](https://www.facebook.com/profile.php?id=100080589047918)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rabbi-Hasan0&show_icons=true&count_private=true&theme=dark" alt="Rabbi-Hasan0" />
