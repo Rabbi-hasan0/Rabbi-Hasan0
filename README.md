@@ -12,9 +12,9 @@
 
 #### Languages: C++ | Python | Javascript | Java
 
-#### Frontend: HTML | CSS | React | NextJS | Tailwind
+// #### Frontend: HTML | CSS | React | NextJS | Tailwind
 
-#### Backend: Python | FastAPI | PostgreSQL | Django
+// #### Backend: Python | FastAPI | PostgreSQL | Django
 
 #### Others: Git | Docker | google_cloud | Linux 
 ---------------
