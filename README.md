@@ -14,9 +14,9 @@
 
 #### Frontend: HTML | CSS | Tailwind | React
 
-<!.. #### Backend: Python | FastAPI | PostgreSQL | Django ..>
+#### Backend: 
 
-#### Others: Git | Docker | google_cloud | Linux 
+#### Others: Git | google_cloud | Linux 
 ---------------
 ## My Handles
  [<img src="https://img.shields.io/badge/Rabbi-hasan-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabbi-hasan-712231244)
